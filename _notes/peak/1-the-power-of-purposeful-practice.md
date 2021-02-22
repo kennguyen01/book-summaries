@@ -32,8 +32,36 @@ In 1973, the highest digits of pi memorized was 511. In 2015, the world record w
 
 While the abilities are extraordinary, the practice of developing them is not. Competition and research creates more *sophisticated training*. People also devoted more time to practice. The result is a steady improvement of performers in various fields. With more data, research indicated that effective practice techniques work in essentially the same way despite different domains.
 
-### Usual Practice
+### Normal Practice
 
 Most people learn a new skill through a similar path. They start off with a general idea of what they want to do, learn from a resource like a book or teacher, practice until an acceptable level, and let it become automatic. Once they reach this satisfactory level, they assume that the skill becomes better through regular use.
 
 Research has shown that once a person achieves an acceptable performance and *automaticity*, additional years of practice don't lead to improvement. People actually get worse over time from lack of efforts to improve.
+
+### Purposeful Practice
+
+Purposeful practice has *clear and specific goals*. It is about putting multiple small steps together to achieve a long-term goal. Figure out the general goal and turn it into something specific that can be worked on with a realistic expectation of improvement.
+
+It is *focused*. There is seldom improvement without giving full attention to the task.
+
+It involves *meaningful feedback*. If the errors are not identified and corrected, the student will not know what to work on. By recoginizing where the weaknesses are, the student can focus appropriately and come up with techniques to address them.
+
+It requires *pushing outside the comfort zone*. This is the most important part. 
+
+#### Comfort Zone
+
+If the student does not push beyond what is familiar and comfortable, there can be no improvement. Doing the same thing over and over again is a recipe for stagnation. Generally, the solution not try harder but rather *try differently*. The same technique that worked before might not work again once the student hits the plateau. A new technique has to be developed to break through the barrier.
+
+Working with a **teacher** is useful. Someone who is already familiar with the obstacles the student is likely to encounter can suggest ways to overcome them.
+
+Sometimes the barrier is more psychological than anything else. Research has shown that a true obstacle with no way around is surprisingly rare. The person often gives up and stop trying rather than hitting an immutable limit on performance.
+
+The caveat is that it is not easy to improve. Maintaining the focus and effort required is hard work and not enjoyable.
+
+### Limits of Purposeful Practice
+
+Steve developed a collection of **mnemonics** based on running times to encode long strings of digits. The digits 907 is conceptualized as 9:07, a good 2-mile run time. That allowed him to use long-term memory to sidestep limitations of the short-term memory. Steve always decided before the training session what pattern he would use to break up and organize the digits into meaningful numbers. These prefixed patterns are referred to as **retrieval structure**.
+
+**Dario Donatelli** was another volunteer who was recruited. Steve taught Dario the technique and Dario was able to designed a different retrieval structure that worked much better for him. Dario eventually reaches over 100 digits.
+
+It is generally possible to improve with focused practice and staying out of comfort zone. But there are other important aspects to practice and training that are often overlooked.

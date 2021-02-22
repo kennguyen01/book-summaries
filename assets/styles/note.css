@@ -15,6 +15,9 @@ body {
   display: grid;
   grid-template-columns: 1fr 8fr;
 }
+h2 {
+  font-size: 22px;
+}
 
 /*
 ===NAV===
@@ -137,6 +140,7 @@ nav a {
   text-decoration: underline;
 }
 .idea strong, .idea em {
+  display: block;
   padding-left: 1em;
 }
 
