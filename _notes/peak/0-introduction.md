@@ -24,6 +24,8 @@ In 2014, a **experiment** was conducted in Japan to see if the ability can be le
 
 Investigation into Mozart's life revealed that his father, Leopold Mozart, taught him and his sister music from a young age. Without the extensive training, he might not have developed the ability at all. 
 
+### Neuroplasticity
+
 Scientists used to believe that the brain had a *fixed capacity*. No amount of practice would help if you didn't have the right genes. Each person is born with limited potential with no additional room for improvement. The purpose of training was simply to allow the person to reach his potential and no more.
 
 Today, research showed that even adult brain is very *adaptable*. Even though children learn faster than adult, neural connections can be strengthened and new neurons can grow well into adulthood. Learning is a way of expanding the reservoir of potential. However, hard work alone is not sufficient. The right training method must be implemented. 
