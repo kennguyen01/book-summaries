@@ -4,6 +4,7 @@ title: The Power of Purposeful Practice
 ---
 
 [Introduction](0-introduction.html)
+[Harnessing Adaptability](2-harnessing-adaptability.html)
 
 > Most people learn a new skill until they are good enough to perform it automatically. They do not improve anymore despite using the skill repetitively over time. To get past the plateau, the practice needs to be purposeful. Purposeful practice must have specific goals, be focused, involves feedback, and push beyond the comfort zone. Managing motivation is essential because this process is difficult and not enjoyable.
 
@@ -24,7 +25,7 @@ After several training sessions, Steve was suddenly able push past the ceiling a
 
 ## Extraordinary Performers
 
-In 1908, the **marathon world record** was 2 hours, 55 minutes, and 18 seconds. Today, the record is 30% faster at 2 hours, 2 minutes, and 57 seconds.
+In 1908, the marathon world record was 2 hours, 55 minutes, and 18 seconds. Today, the record is 30% faster at 2 hours, 2 minutes, and 57 seconds.
 
 In the same year, the double somersault for men's diving was considered to be too dangerous and should be banned. Today, the same move can be done by 10 year olds.
 
