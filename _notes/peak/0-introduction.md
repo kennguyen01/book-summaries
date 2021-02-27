@@ -5,6 +5,7 @@ title: Introduction
 
 [The Power of Purposeful Practice](1-the-power-of-purposeful-practice.html)
 [Harnessing Adaptability](2-harnessing-adaptability.html)
+[Mental Representations](3-mental-representations.html)
 
 > Some people are great at what they do. Even though it seems like they are born with innate talent, research has shown that dedicated training helped the brain develop faster. The same gift everyone has is the adaptability of the brain and body. Deliberate practice takes advantage of this gift for continuous improvement.
 
@@ -21,7 +22,7 @@ With modern data, there are two common traits people with perfect pitch have:
 1. They received musical training in their childhood.
 2. People who speak tonal language, such as Madarin or Vietnamese, are more likely to have perfect pitch.
 
-In 2014, a **experiment** was conducted in Japan to see if the ability can be learned. 24 children between 2 and 6 years old were taught music over a long period. At the end of the training, every child acquired perfect pitch and could identify the notes played on the piano. The study showed that anyone can develop perfect pitch with proper training.
+In 2014, an **experiment** was conducted in Japan to see if the ability can be learned. 24 children between 2 and 6 years old were taught music over a long period. At the end of the training, every child acquired perfect pitch and could identify the notes played on the piano. The study showed that anyone can develop perfect pitch with proper training.
 
 Investigation into Mozart's life revealed that his father, Leopold Mozart, taught him and his sister music from a young age. Without the extensive training, he might not have developed the ability at all. 
 

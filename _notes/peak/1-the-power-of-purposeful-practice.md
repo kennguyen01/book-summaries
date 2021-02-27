@@ -5,6 +5,7 @@ title: The Power of Purposeful Practice
 
 [Introduction](0-introduction.html)
 [Harnessing Adaptability](2-harnessing-adaptability.html)
+[Mental Representations](3-mental-representations.html)
 
 > Most people learn a new skill until they are good enough to perform it automatically. They do not improve anymore despite using the skill repetitively over time. To get past the plateau, the practice needs to be purposeful. Purposeful practice must have specific goals, be focused, involves feedback, and push beyond the comfort zone. Managing motivation is essential because this process is difficult and not enjoyable.
 

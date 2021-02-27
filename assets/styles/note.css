@@ -130,11 +130,9 @@ nav a {
 .idea a {
   display: inline-block;
   text-decoration: none;
-  color: #00008B;
   opacity: 0.9;
 }
 .idea a:hover {
-  color: #00008B;
   opacity: 1;
   transform: scale(1.01);
   text-decoration: underline;
@@ -144,6 +142,28 @@ nav a {
   padding-left: 1em;
 }
 
+/* Links colors */
+.idea h2 a {
+  color: #0000A0;
+}
+.idea h3 a {
+  color: #0041C2;
+}
+.idea h4 a {
+  color: #306EFF;
+}
+.idea h5 a {
+  color: #5CB3FF;
+}
+.idea h6 a {
+  color: #82CAFF;
+}
+.idea strong a {
+  color: #008080;
+}
+.idea em a {
+  color: #990012;
+}
 
 /*
 ===NOTES=== 
