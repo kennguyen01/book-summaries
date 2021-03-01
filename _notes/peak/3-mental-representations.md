@@ -7,7 +7,7 @@ title: Mental Representations
 [The Power of Purposeful Practice](1-the-power-of-purposeful-practice.html)
 [Harnessing Adaptability](2-harnessing-adaptability.html)
 
->
+> Mental representations are the building blocks of expert performance. Deliberate practice is the process of developing more sophisticated mental representations that can recognize and respond to patterns without conscious thoughts. The more skilled you become, the better your mental representations are, and the more effectively you can practice to hone your skill.
 
 ## Blindfold Chess
 
@@ -46,3 +46,23 @@ Similar study was done with football players. The most successful quarterbacks g
 An ability that the majority of adults learned early is **reading**. Reading require breaking up strings of words into meaningful chunks. There are various patterns to allow the readers to infer the words they have never seen before. But there are people who are better at understanding and assimilating the information contained in a book.
 
 To see how people retain information. A group of people were tested on how much they remember from a newspaper article on a specialized topic, such as football or baseball. The study showed that *people who understood the topic had better comprehension*. If the reader didn't know much about the topic, the details were unrelated facts with no meaning. For a reader who already had a mental representation, the new information was integrated into their long-term memory.
+
+#### Finding Answers
+
+When doctors make diagnoses, they are given a lot of information abou the patients' conditions. The doctors must be able to assimilate those facts, recall relevant knowledge, and select the best options for the patients. 
+
+Medical students tend to associate symptoms with the conditions they're familar with and jump quickly to conclusions. Due to their inexperiences, they *fail to generate multiple options*. Experienced doctors see symptoms and other relevant data as *pieces of a larger patterns*. The organized and accessible knowledge allow the doctors to zero in on the most likely causes of the issues.
+
+### Planning
+
+Better mental representations create more effective planning. For writing, a novice writer tend to write down all their ideas until they cannot think up of anything else to write. A better writer include a structure to the writing. This approach to writing is called **knowledge telling** because it simply tells the reader whatever comes to your mind. 
+
+With expert writers, they ask themselves what they want to convey and break down each chapter with only the necessary information. They understand why each piece was there and what they wanted to accomplish with it. In the process of writing, they would come up with new ways to think about the topic and adds to the knowledge. This writing is called **knowledge transforming** because it uses feedback to modify the writing as necessary. 
+
+### Learning
+
+When practicing a new piece of music, beginning musicians generally lack a good, clear idea of how the music should sound. The advanced musicians already have a detailed idea of how they want to play the piece. They *use their mental representations to guide their practice* and identify subtle mistakes. Great musicians understand various qualities of their playing such as pitch, length, intonation, and harmonic relationship with other notes.
+
+The more accomplish musicians are also better able to determine difficult sections that they need to focus on. They can match appropriate practice techniques with the types of difficulties they have with the music. *Better mental representations lead to more effective practice*.
+
+The psychologist **Roger Chaffin** worked together with **Gabriela Imreh**, a world class pianist, to learn how an expert uses mental represenations. The first thing Imreh did when she read a new piece was to develop an **artistic image** of the music. By putting differnet elements into an overall map of the piece, she gave herself a clear idea of what she needed to pay close attention to as she was playing. 
