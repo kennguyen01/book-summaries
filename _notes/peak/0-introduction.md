@@ -6,6 +6,7 @@ title: Introduction
 [The Power of Purposeful Practice](1-the-power-of-purposeful-practice.html)
 [Harnessing Adaptability](2-harnessing-adaptability.html)
 [Mental Representations](3-mental-representations.html)
+[The Gold Standard](4-the-gold-standard.html)
 
 > Some people are great at what they do. Even though it seems like they are born with innate talent, research has shown that dedicated training helped the brain develop faster. The same gift everyone has is the adaptability of the brain and body. Deliberate practice takes advantage of this gift for continuous improvement.
 
