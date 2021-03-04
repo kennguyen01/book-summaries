@@ -1,3 +1,5 @@
-# Jekyll Cornell Notes
+# Book Summaries
 
-Cornell Notes for Jekyll.
+Cornell notes for the books I read.
+
+Link: [Book Summaries](https://raisingexceptions.com/book-summaries/)
