@@ -7,6 +7,7 @@ title: Introduction
 [Harnessing Adaptability](2-harnessing-adaptability.html)
 [Mental Representations](3-mental-representations.html)
 [The Gold Standard](4-the-gold-standard.html)
+[Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
 
 > Some people are great at what they do. Even though it seems like they are born with innate talent, research has shown that dedicated training helped the brain develop faster. The same gift everyone has is the adaptability of the brain and body. Deliberate practice takes advantage of this gift for continuous improvement.
 

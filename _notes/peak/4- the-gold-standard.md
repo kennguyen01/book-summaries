@@ -7,6 +7,7 @@ title: The Gold Standard
 [The Power of Purposeful Practice](1-the-power-of-purposeful-practice.html)
 [Harnessing Adaptability](2-harnessing-adaptability.html)
 [Mental Representations](3-mental-representations.html)
+[Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
 
 > Deliberate practice arises from highly developed fields. In these fields there are objective criteria of performance, competitions that drive improvement, and training techniques that have been developed over time. Students in these fields have the opportunities to learn from expert performers and can work with good teachers to improve specific aspects of their performance. 
 >

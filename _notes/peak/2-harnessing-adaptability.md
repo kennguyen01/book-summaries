@@ -7,6 +7,7 @@ title: Harnessing Adaptability
 [The Power of Purposeful Practice](1-the-power-of-purposeful-practice.html)
 [Mental Representations](3-mental-representations.html)
 [The Gold Standard](4-the-gold-standard.html)
+[Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
 
 > The brain has the ability to rewires itself to become better at different skills. The process only happens when the brain is being pushed past homeostasis and has to overcompensate. Regular training leads to changes in the parts of the brain that are challenged by the training. To keep improving, the challenges need to also become more and more difficult. Maintenance of the skill requires upkeep and prolonged training can also cause a decline in another skill.
 
