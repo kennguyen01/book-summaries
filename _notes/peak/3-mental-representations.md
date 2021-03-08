@@ -8,6 +8,7 @@ title: Mental Representations
 [Harnessing Adaptability](2-harnessing-adaptability.html)
 [The Gold Standard](4-the-gold-standard.html)
 [Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
+[Principles of Deliberate Practice in Everyday Life](6-principles-of-deliberate-practice-in-everyday-life.html)
 
 > Mental representations are the building blocks of expert performance. Deliberate practice is the process of developing more sophisticated mental representations that can recognize and respond to patterns without conscious thoughts. The more skilled you become, the better your mental representations are, and the more effectively you can practice to hone your skill.
 
