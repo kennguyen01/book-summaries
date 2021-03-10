@@ -9,6 +9,7 @@ title: Principles of Deliberate Practice on the Job
 [Mental Representations](3-mental-representations.html)
 [The Gold Standard](4-the-gold-standard.html)
 [Principles of Deliberate Practice in Everyday Life](6-principles-of-deliberate-practice-in-everyday-life.html)
+[The Road to Extraordinary](7-the-road-to-extraordinary.html)
 
 > The traditional approach to learning new skill is about acquiring knowledge. This approach is limited because performance does not necessarily improve by having more knowledge. The assumption that more experience leads to better performance places the burden on performers to improve without seeking help. Having skill-based training programs allow people to practice their skill over and over again without the high risk of failure on the job.
 

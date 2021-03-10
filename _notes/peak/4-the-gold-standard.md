@@ -9,6 +9,7 @@ title: The Gold Standard
 [Mental Representations](3-mental-representations.html)
 [Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
 [Principles of Deliberate Practice in Everyday Life](6-principles-of-deliberate-practice-in-everyday-life.html)
+[The Road to Extraordinary](7-the-road-to-extraordinary.html)
 
 > Deliberate practice arises from highly developed fields. In these fields there are objective criteria of performance, competitions that drive improvement, and training techniques that have been developed over time. Students in these fields have the opportunities to learn from expert performers and can work with good teachers to improve specific aspects of their performance. 
 >

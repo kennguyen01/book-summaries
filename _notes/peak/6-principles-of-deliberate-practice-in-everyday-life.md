@@ -9,6 +9,7 @@ title: Principles of Deliberate Practice in Everyday Life
 [Mental Representations](3-mental-representations.html)
 [The Gold Standard](4-the-gold-standard.html)
 [Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
+[The Road to Extraordinary](7-the-road-to-extraordinary.html)
 
 > The best way to identify and fix your weaknesses is to find a good teacher. Without a teacher, you need to fully engage with your practice and constantly push beyond your comfort zone. Design your practice so that you can work on your weaknesses. Avoid mindless repetitions by challenging yourself in new ways whenever you hit a plateau. Believe that you can improve and surround yourself with people who have similar goals for improvements.
 
