@@ -1,15 +1,10 @@
 ---
 layout: note
 title: The Power of Purposeful Practice
+tag: Peak
 ---
 
-[Introduction](0-introduction.html)
-[Harnessing Adaptability](2-harnessing-adaptability.html)
-[Mental Representations](3-mental-representations.html)
-[The Gold Standard](4-the-gold-standard.html)
-[Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
-[Principles of Deliberate Practice in Everyday Life](6-principles-of-deliberate-practice-in-everyday-life.html)
-[The Road to Extraordinary](7-the-road-to-extraordinary.html)
+{% include links.html tag=page.tag %}
 
 > Most people learn a new skill until they are good enough to perform it automatically. They do not improve anymore despite using the skill repetitively over time. To get past the plateau, the practice needs to be purposeful. Purposeful practice must have specific goals, be focused, involves feedback, and push beyond the comfort zone. Managing motivation is essential because this process is difficult and not enjoyable.
 

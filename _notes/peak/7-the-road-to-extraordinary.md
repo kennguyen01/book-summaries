@@ -1,15 +1,10 @@
 ---
 layout: note
 title: The Road to Extraordinary
+tag: Peak
 ---
 
-[Introduction](0-introduction.html)
-[The Power of Purposeful Practice](1-the-power-of-purposeful-practice.html)
-[Harnessing Adaptability](2-harnessing-adaptability.html)
-[Mental Representations](3-mental-representations.html)
-[The Gold Standard](4-the-gold-standard.html)
-[Principles of Deliberate Practice on the Job](5-principles-of-deliberate-practice-on-the-job.html)
-[Principles of Deliberate Practice in Everyday Life](6-principles-of-deliberate-practice-in-everyday-life.html)
+{% include links.html tag=page.tag %}
 
 > With proper training, any child could be turned into a genius. The 4 stages of expertise are: starting interest, getting serious, commitment, and becoming pathfinder. In the first 2 stages, the students need a lot of support and guidance from family and teachers to maintain their motivation. In the third stage, the students have to commit their lives to the pursuit. They have to put in tremendous efforts to reach the frontiers. Eventually some of them might become pathfinders and contribute something unique to their fields.
 
