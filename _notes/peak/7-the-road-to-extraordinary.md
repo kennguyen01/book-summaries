@@ -21,7 +21,7 @@ Their first daughter Susan became the top-ranked woman player when she was 15 an
 
 ## Stages of Expertise
 
-The sisters provided a clear example of what it takes to become an expert performers. Psychologists found that their development passes through **4 stages of expertise**, from starting interest to full-fledged expertise.
+The sisters provided a clear example of what it takes to become an expert performers. Psychologists found that their development passes through **four stages of expertise**, from starting interest to full-fledged expertise.
 
 ### Starting Out
 
